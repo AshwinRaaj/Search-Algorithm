@@ -114,12 +114,18 @@ else:
     print("Element not found")
 
 ```
+## Sample Input and Output:
+![sample](ss8.png)
+
 ## Output:
+1.Linear Search:
 
 ![output 1](ss8a.png)
 
+2.Binary Search(Iterative Method)
 ![output 2](ss8b.png)
 
+3.Binary Search(Recursive Method)
 ![output 3](ss8c.png)
 
 ## Result:
